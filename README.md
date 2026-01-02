@@ -29,6 +29,6 @@
 |**習題 9 : 請用 AI 寫出一個最小編輯距離程式，並請 AI 說明之，然後分享 AI 網址**|
 |[HW9](https://github.com/yawem0525/_alg/tree/main/HW9)<br>[AIChat](https://gemini.google.com/share/729e66eaa015)<br>🟢 **了解了**|
 |**習題 10 : 寫一個程式可以做 n 維函數的積分 (n 是參數）**|
-|[HW10](https://github.com/yawem0525/_alg/blob/main/HW10.py)[AI對話](https://gemini.google.com/share/b387ee190a91)<br>🟢 **與ai(gemini)對話，了解程式運作方法**|
+|[HW10](https://github.com/yawem0525/_alg/blob/main/HW10.py) <br>[AI對話](https://gemini.google.com/share/b387ee190a91)<br>🟢 **與ai(gemini)對話，了解程式運作方法**|
 |**習題 11 : 請把計算理論的故事講一遍 （問 AI 回答也可以）**|
 |[hw11](https://gemini.google.com/share/5e08748e946d)<br>🟢 **與ai對話，了解故事用gemini**|
