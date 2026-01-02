@@ -11,20 +11,20 @@
 
 |**習題1: 計算合併排序的複雜度 T(n) = T(n/2) + n**|
 | :---------------------------------------- |
-|[HW1](https://github.com/yawem0525/_alg/blob/main/HW1/132471.jpg)<br>自己算的||
+|[HW1](https://github.com/yawem0525/_alg/blob/main/HW1/132471.jpg)<br>🟢 **自己算的**||
 |**習題2: 請用四種方法算 f(n) = 2^n (2的 n 次方）**|
-|[HW2](https://github.com/yawem0525/_alg/blob/main/HW2/power2n.py)<br>*Debug using Gemini*|
+|[HW2](https://github.com/yawem0525/_alg/blob/main/HW2/power2n.py)<br>🟢 **自己算有問chatgpt**|
 |**習題 3 : 請用 AI 問答的方式，了解暴力法的各種用途**|
-|[HW3](https://chatgpt.com/share/695409de-f564-8006-9f2d-ad5038a8f9bd)<br>*Debug using ChatGPT*|
+|[HW3](https://chatgpt.com/share/695409de-f564-8006-9f2d-ad5038a8f9bd)<br>🟢 **問chatgpt**|
 |**習題 4 : 請用 AI 問答的方式，了解 python 的 itertools 怎麼用？**|
-|[HW4](https://chatgpt.com/share/69540966-0828-8006-be5a-e02b45fe53a0)<br>*Debug using ChatGPT*|
+|[HW4](https://chatgpt.com/share/69540966-0828-8006-be5a-e02b45fe53a0)<br>🟢 **問chatgpt** |
 |**習題 5 : 請用 AI 問答的方式，詢問迭代法**|
-|[HW5](https://chatgpt.com/share/69540a86-e890-8006-bcf4-25e28b6f5c24)<br>*Debug using ChatGPT*|
+|[HW5](https://chatgpt.com/share/69540a86-e890-8006-bcf4-25e28b6f5c24)<br>🟢 **問chatgpt**|
 |**習題 6 : 請用各種方法解線性迴歸問題**|
-|[爬山演算法]()<br>*Debug using Gemini*|
+|[爬山演算法](https://github.com/yawem0525/_alg/tree/main/HW6)<br>🟢 **使用 AI 說明本作業部分內容使用 ChatGPT 協助理解與撰寫，有寫重點優缺點與見解**|
 |**習題 7 : 請從下列三個搜尋問題，選一個完成（寫程式）**|
-|[老鼠走迷宮問題]()<br>*Debug using Gemini*|
+|[老鼠走迷宮問題](https://github.com/yawem0525/_alg/blob/main/HW7.md)<br>🟢 **我選的是習題：《狼、羊、甘藍菜》過河的問題，chatgpt Debug** |
 |**習題 8 : 請說明 C(n,k) 的查表版和動態規劃版之異同**|
-|(4)|
+|[README.md](https://github.com/yawem0525/_alg/tree/main/HW)<br>🟢 **與ai對話，了解計算方法**|
 |**習題 9 : 請用 AI 寫出一個最小編輯距離程式，並請 AI 說明之，然後分享 AI 網址**|
-|[HW9]()<br>[AIChat]()<br>*Debug using Gemini*|
+|[HW9](https://github.com/yawem0525/_alg/tree/main/HW9)<br>[AIChat](https://gemini.google.com/share/729e66eaa015)<br>🟢 **了解了**|
